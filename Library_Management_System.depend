@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709684226 source:c:\users\james matata\desktop\codewizard\c++_programming\library_management_system\library_management_system\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
